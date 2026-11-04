@@ -1,0 +1,6 @@
+{
+  "name": "Nova Games | Unblocked Browser Arcade",
+  "description": "A clean, fast, user-friendly unblocked arcade featuring classic browser games like Snake, Breakout, 2048, Flappy Flyer, Space Invaders, Pong, and Minesweeper with zero AI bloat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

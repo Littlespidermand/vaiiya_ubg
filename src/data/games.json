@@ -1,0 +1,235 @@
+[
+  {
+    "id": "confront",
+    "title": "Confront",
+    "category": "action",
+    "shortDesc": "Tactical combat shooter. Infiltrate hostile sectors and eliminate rival combatants in this high-intensity unblocked classic.",
+    "iframe": "https://unblockedgames76.gitlab.io/confront/",
+    "isHot": true,
+    "controls": [
+      { "key": "WASD / Arrows", "action": "Tactical movement" },
+      { "key": "Left Mouse", "action": "Aim & discharge weapon" },
+      { "key": "R", "action": "Reload ammunition" }
+    ],
+    "instructions": [
+      "Navigate hostile terrain utilizing structural cover.",
+      "Engage enemy combatants with precision fire.",
+      "Clear all hostiles to secure sector advancement."
+    ]
+  },
+  {
+    "id": "happy-room",
+    "title": "Happy Room",
+    "category": "arcade",
+    "shortDesc": "Physics laboratory destruction arena. Deploy kinetic traps, automated turrets, and energy weaponry to test ragdoll stress tolerance.",
+    "iframe": "https://unblockedgames76.gitlab.io/happy-room/",
+    "isHot": true,
+    "controls": [
+      { "key": "Mouse / Left Click", "action": "Select & place armaments" },
+      { "key": "Mouse Drag", "action": "Reorient obstacle angle" },
+      { "key": "Space", "action": "Execute test simulation" }
+    ],
+    "instructions": [
+      "Install weapon hardware along laboratory test grid.",
+      "Trigger the dummy deployment to activate kinetic weapons.",
+      "Complete weapon research goals to unlock tier upgrades."
+    ]
+  },
+  {
+    "id": "happy-wheels",
+    "title": "Happy Wheels",
+    "category": "classic",
+    "shortDesc": "Legendary ragdoll physics obstacle course. Navigate perilous lethal gauntlets with wheeled vehicles and survivor abilities.",
+    "iframe": "https://ubgwtf.gitlab.io/happy-wheels/",
+    "height": 600,
+    "isHot": true,
+    "controls": [
+      { "key": "Up / W", "action": "Accelerate forward" },
+      { "key": "Down / S", "action": "Decelerate / reverse" },
+      { "key": "Left / Right", "action": "Lean body / balance" },
+      { "key": "Spacebar", "action": "Primary vehicle ability" },
+      { "key": "Shift / Ctrl", "action": "Secondary character action" },
+      { "key": "Z", "action": "Eject vehicle" }
+    ],
+    "instructions": [
+      "Balance vehicle momentum across deadly obstacle tracks.",
+      "Utilize character abilities to bypass structural traps.",
+      "Survive and cross the finish marker."
+    ]
+  },
+  {
+    "id": "gunblood",
+    "title": "Gunblood",
+    "category": "action",
+    "shortDesc": "Western quick-draw shootout duel. Test reaction speed and lethal precision against notorious outlaws in 1v1 showdowns.",
+    "iframe": "/gunblood.html",
+    "height": 520,
+    "isHot": true,
+    "controls": [
+      { "key": "Mouse Hover", "action": "Place cursor on gun chamber to start countdown" },
+      { "key": "Mouse Aim", "action": "Target opposing outlaw" },
+      { "key": "Left Click", "action": "Draw & fire weapon" }
+    ],
+    "instructions": [
+      "Keep cursor inside chamber until 'FIRE' is signaled.",
+      "React instantaneously to draw and eliminate the rival.",
+      "Survive 9 increasingly lethal rounds."
+    ]
+  },
+  {
+    "id": "age-of-war",
+    "title": "Age of War",
+    "category": "classic",
+    "shortDesc": "Epic cross-era evolutionary warfare defense. Advance through 5 evolutionary eras, summon soldiers, and conquer opposing bases.",
+    "iframe": "https://unblockedgames76.gitlab.io/age-of-war/",
+    "height": 600,
+    "isHot": true,
+    "controls": [
+      { "key": "Left Mouse", "action": "Recruit warriors, build turrets, upgrade era" },
+      { "key": "Special Attack", "action": "Launch era artillery strike" }
+    ],
+    "instructions": [
+      "Accumulate gold and experience by defeating enemies.",
+      "Advance through eras: Stone, Castle, Renaissance, Modern, Future.",
+      "Destroy the enemy base to achieve total victory."
+    ]
+  },
+  {
+    "id": "bloons-td",
+    "title": "Bloons TD",
+    "category": "arcade",
+    "shortDesc": "Classic strategic balloon defense. Deploy dart monkeys, tack shooters, and super towers to burst invading waves of bloons.",
+    "iframe": "https://bloons-tower-defense.game-files.crazygames.com/ruffle/bloonstd.html?isNewUser=false&__nextLocale=en-US&czyExpClientGoogleH5_2=both&czyExpClientOptable4=disabled&czyExpClientAdsDummyAA10=enabled&czyExpClientAdsDummyAA50=enabled&czyExpClientGamera=enabled&czyExpClientAdsConsentGate2=disabled&czyExpClientAdsIdentity=disabled&czyExpClientLiveIntent=enabled&czyExpClientAmazonBidRoute=apstag&czyExpClientContentSignals=enabled&czyExpClientAdsHolidayMode_CZY_21360=disabled&czyExpClientAdmiral=enabled&czyExpClientAdXFloor_1_CZY_20844=1&czyExpDisableInterstitialsFirst12h_CZY_18471=disabled&czyExpClientUnityMax1024Wasm_CZY_21177=disabled&czyExpClientUniformLoading_CZY_19437=enabled&czyExpClientFullscreenMobileRendering_CZY_20866=enabled&czyExpClientArtworkAbTesting_CZY_20701=enabled&czyExpModelApiTraffic_CZY_21907=enabled&czyExpClientDomainProbe_CZY_21425=enabled&czyExpClientGamepageModelBlend_CZY_21410=disabled&czyExpClientInAppPurchaseAlternativeBillingAndroidValidToken=disabled&czyExpClientModelGamePage=knn_v5_expl_cpu_fallback&czyExpClientGameGpuGuardAndroid=disabled&czyExpClientInAppPurchaseAlternativeBillingAndroid=enabled&czyExpClientInAppPurchaseAlternativeBillingIOSUS=enabled&v=2.13",
+    "height": 600,
+    "isHot": true,
+    "controls": [
+      { "key": "Mouse Drag", "action": "Place defensive towers" },
+      { "key": "Click Tower", "action": "Upgrade range, attack speed, and piercing power" },
+      { "key": "Start Round", "action": "Unleash advancing bloon wave" }
+    ],
+    "instructions": [
+      "Position defensive towers along the track bends.",
+      "Upgrade weapons to pierce rubber, lead, and camo bloons.",
+      "Prevent bloons from escaping the course."
+    ]
+  },
+  {
+    "id": "duck-ai",
+    "title": "Duck.ai",
+    "category": "tools",
+    "shortDesc": "Anonymous private search & AI interface powered by DuckDuckGo. Embedded directly inside Sonar OS.",
+    "iframe": "https://duck.ai",
+    "isHot": true,
+    "controls": [
+      { "key": "Keyboard Input", "action": "Type query or question" },
+      { "key": "Enter", "action": "Submit query" }
+    ],
+    "instructions": [
+      "Execute anonymous searches & AI queries inside this window.",
+      "Never leave Sonar OS while browsing.",
+      "Minimize or close window to return to desktop."
+    ]
+  },
+  {
+    "id": "game-2048",
+    "title": "2048 Protocol",
+    "category": "puzzle",
+    "shortDesc": "Mathematical matrix consolidation puzzle. Merge numeric data cells to synthesize the 2048 master block.",
+    "iframe": "https://play2048.co/",
+    "isHot": true,
+    "controls": [
+      { "key": "Arrow Keys", "action": "Shift matrix grid" },
+      { "key": "U", "action": "Undo transaction" }
+    ],
+    "instructions": [
+      "Shift tiles across the 4x4 matrix.",
+      "Tiles with matching values merge into their sum.",
+      "Consolidate units to reach the 2048 objective."
+    ]
+  },
+  {
+    "id": "retro-snake",
+    "title": "Vector Snake",
+    "category": "classic",
+    "shortDesc": "Grid-based vector navigation. Harvest energy nodes to expand segment length without perimeter breach.",
+    "iframe": "https://unblockedgames76.gitlab.io/snake/",
+    "isHot": false,
+    "controls": [
+      { "key": "WASD / Arrows", "action": "Vector steering" },
+      { "key": "Space", "action": "Halt simulation" }
+    ],
+    "instructions": [
+      "Acquire red energy units to increase length.",
+      "Avoid structural boundaries and self-collision.",
+      "Optimize pathing for maximal grid coverage."
+    ]
+  },
+  {
+    "id": "galaxy-strike",
+    "title": "Galaxy Defense",
+    "category": "action",
+    "shortDesc": "Orbital sector interceptor defense against descending hostile armada. Protect terrestrial boundaries.",
+    "iframe": "https://unblockedgames76.gitlab.io/space-invaders/",
+    "isHot": false,
+    "controls": [
+      { "key": "A / D or Arrows", "action": "Interceptor strafe" },
+      { "key": "Spacebar", "action": "Plasma discharge" }
+    ],
+    "instructions": [
+      "Neutralize approaching airborne invaders.",
+      "Utilize energy bunkers for kinetic shielding.",
+      "Intercept priority command cruisers for score multipliers."
+    ]
+  },
+  {
+    "id": "neon-breakout",
+    "title": "Breakout Grid",
+    "category": "arcade",
+    "shortDesc": "Kinetic deflection matrix. Deflect the high-velocity projectile to dismantle reinforced target blocks.",
+    "iframe": "https://unblockedgames76.gitlab.io/atari-breakout/",
+    "isHot": false,
+    "controls": [
+      { "key": "Mouse / Left-Right", "action": "Paddle positioning" },
+      { "key": "Space", "action": "Ball deployment" }
+    ],
+    "instructions": [
+      "Angle paddle impacts to target high-tier bricks.",
+      "Collect descending enhancement modules.",
+      "Prevent projectile from breaching lower boundary."
+    ]
+  },
+  {
+    "id": "retro-pong",
+    "title": "Sub-Zero Pong",
+    "category": "2-player",
+    "shortDesc": "Two-terminal kinetic rally simulation. Deflect the accelerated projectile past opposing security buffer.",
+    "iframe": "https://unblockedgames76.gitlab.io/pong/",
+    "isHot": false,
+    "controls": [
+      { "key": "W / S", "action": "Primary terminal paddle" },
+      { "key": "Up / Down", "action": "Secondary terminal paddle" }
+    ],
+    "instructions": [
+      "Maintain volley to escalate velocity index.",
+      "Angle returns to exploit defensive blindspots.",
+      "First terminal to achieve 7 victories wins."
+    ]
+  },
+  {
+    "id": "dino-runner",
+    "title": "Desert Sprint",
+    "category": "arcade",
+    "shortDesc": "Infinite perimeter reconnaissance. Traverse hostile terrain obstacles under escalating temporal acceleration.",
+    "iframe": "https://chromedino.com/",
+    "isHot": false,
+    "controls": [
+      { "key": "Space / Up", "action": "Ascend jump" },
+      { "key": "Down Arrow", "action": "Crouch slide" }
+    ],
+    "instructions": [
+      "Leap over environmental obstacles.",
+      "Slide beneath low-altitude aerial biped threats.",
+      "Survive day/night telemetry shifts."
+    ]
+  }
+]
